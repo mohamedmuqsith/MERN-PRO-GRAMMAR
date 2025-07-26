@@ -18,6 +18,8 @@
     "mongoose": "^8.16.5"
   },
   "devDependencies": {
-    "nodemon": "^3.1.10"
+    "@vitejs/plugin-react": "^4.7.0",
+    "nodemon": "^3.1.10",
+    "vite": "^7.0.6"
   }
 }

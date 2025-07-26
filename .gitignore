@@ -1,0 +1,24 @@
+# General
+.DS_Store
+*.log
+*.env
+*.env.local
+.vscode/
+.idea/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Frontend (React/Vite)
+/client/dist/
+/client/.vite/
+/client/*.local
+
+# Backend
+/server/uploads/
+/server/.env
+
+# Database
+*.db
+*.sqlite
